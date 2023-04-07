@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-01 00:00:00-0100
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+"A Close Look at 5G in the Wild: Unrealized Potentials and Implications" was accepted to [INFOCOM 2023](https://infocom2023.ieee-infocom.org/).
