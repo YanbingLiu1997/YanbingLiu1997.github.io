@@ -94,6 +94,12 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              
+              <!-- CV -->
+              <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+                <a class="nav-link" target="_blank" href="{{ '/assets/pdf/Resume_YanbingLiu_Homepage.pdf' | relative_url }}">CV</a>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
