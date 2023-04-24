@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-01 00:00:00-0100
+date: 2023-05-09 00:00:00-0100
 inline: true
 ---
 
-"A Close Look at 5G in the Wild: Unrealized Potentials and Implications" was accepted to [INFOCOM 2023](https://infocom2023.ieee-infocom.org/).
+Research intern at [AT\&T Labs – Research](https://about.att.com/sites/labs), advised by Dr. [Jia Wang](https://jia-wang.org/).
