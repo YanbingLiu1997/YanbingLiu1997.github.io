@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-14 00:00:00-0100
+date: 2022-12-01 00:00:00-0100
 inline: true
 ---
 
-"CA++: Enhancing Carrier Aggregation Beyond 5G" is accepted by [MobiCom 2023](https://sigmobile.org/mobicom/2023/).
+"A Close Look at 5G in the Wild: Unrealized Potentials and Implications" is accepted by [INFOCOM 2023](https://infocom2023.ieee-infocom.org/).

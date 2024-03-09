@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-05-09 00:00:00-0100
+date: 2023-12-23 00:00:00-0100
 inline: true
 ---
 
-Research intern at [AT&T Labs – Research](https://about.att.com/sites/labs), working with Dr. [Jia Wang](https://jia-wang.org/).
+"Demystifying Secondary Radio Access Failures in 5G" is accepted by [HotMobile 2024](http://www.hotmobile.org/2024/).
+.
