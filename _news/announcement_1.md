@@ -5,4 +5,3 @@ inline: true
 ---
 
 "The Sky is Not the Limit: Unveiling Operational 5G Potentials in the Sky" is accepted by [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/).
-.

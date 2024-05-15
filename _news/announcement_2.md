@@ -5,4 +5,3 @@ inline: true
 ---
 
 "Demystifying Secondary Radio Access Failures in 5G" is accepted by [HotMobile 2024](http://www.hotmobile.org/2024/).
-.
