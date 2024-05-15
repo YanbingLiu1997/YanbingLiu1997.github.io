@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-23 00:00:00-0100
+date: 2024-04-14 00:00:00-0100
 inline: true
 ---
 
-"Demystifying Secondary Radio Access Failures in 5G" is accepted by [HotMobile 2024](http://www.hotmobile.org/2024/).
+"The Sky is Not the Limit: Unveiling Operational 5G Potentials in the Sky" is accepted by [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/).
 .
