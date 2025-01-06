@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-14 00:00:00-0100
+date: 2023-04-03 00:00:00-0100
 inline: true
 ---
 
-"CA++: Enhancing Carrier Aggregation Beyond 5G" is accepted by [MobiCom 2023](https://sigmobile.org/mobicom/2023/).
+"Dependent Misconfigurations in 5G/4.5G Radio Resource Control" is accepted by [CoNEXT 2023](https://conferences.sigcomm.org/co-next/2023/#!/home).

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-04-14 00:00:00-0100
+date: 2024-09-25 00:00:00-0100
 inline: true
 ---
 
-"The Sky is Not the Limit: Unveiling Operational 5G Potentials in the Sky" is accepted by [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/).
+"Handling Failures in Secondary Radio Access Failure Handling in Operational 5G Networks" is accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/abstract/document/10713210).
