@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-09 00:00:00-0100
+date: 2025-09-13 00:00:00-0100
 inline: true
 ---
 
-Research intern at [AT&T Labs – Research](https://about.att.com/sites/labs).
+"5G in the Sky: Uplink Throughput Measurement, Analysis and Enhancement" is accepted by [IEEE/ACM Transactions on Networking].
